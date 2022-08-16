@@ -12,7 +12,11 @@ We will create one function that takes in the following three files and then per
 ## Results:
 After performing our ETL process we have 6,052 records in our Movies Table
  * Movies Query
+ 
  ![movies_query](Resources/movies_query.png)
- After performing our ETL process we have 26,024,28 records in our Ratings Table
- * Ratings Query
+
+After performing our ETL process we have 26,024,28 records in our Ratings Table
+
+* Ratings Query
+ 
  ![ratings_query](Resources/ratings_query.png) 
